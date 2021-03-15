@@ -1,0 +1,51 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "name": "Test",
+      "questions": [
+        {
+          "title": "Question 1",
+          "answers": [
+            "a",
+            "z",
+            "e",
+            "r"
+          ],
+          "goodAnswer": 1
+        },
+        {
+          "title": "Question 2",
+          "answers": [
+            "a",
+            "z",
+            "e",
+            "r"
+          ],
+          "goodAnswer": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Test 2"
+    }
+  ],
+  "scores": [
+    {
+      "quizId": 1,
+      "score": 2,
+      "id": 2
+    },
+    {
+      "quizId": 1,
+      "score": 1,
+      "id": 3
+    },
+    {
+      "quizId": 1,
+      "score": 0,
+      "id": 4
+    }
+  ]
+}
