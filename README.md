@@ -1,6 +1,6 @@
 # Cours de Javascript
 
-Diapo du cours dispo [ici](https://drive.google.com/file/d/1CUqH_hy52O90LCK9su5--cnPMZfho8Rz/view?usp=sharing)
+Diapo du cours dispo [ici](https://docs.google.com/presentation/d/1CUqH_hy52O90LCK9su5--cnPMZfho8Rz/edit?usp=sharing&ouid=110798299858485409879&rtpof=true&sd=true)
 
 
 ## Exercices
