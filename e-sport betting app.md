@@ -1,4 +1,4 @@
-# e-sport betting app
+# e-sport betting app 2022
 
 # Description de l'app
 
@@ -8,16 +8,12 @@ Pour cela vous devrez utiliser l'API [https://pandascore.co/](https://pandascore
 
 Pour les données que vous devez stocker vous pouvez utiliser [https://github.com/typicode/json-server](https://github.com/typicode/json-server)
 
-# Features
+# Fonctionnalités
 
-- [ ]  User
-    - [ ]  Login / Register
-        - [ ]  username
-        - [ ]  password
-        - [ ]  coins (disons 100 pour commencer)
-- [ ]  Voir tous les jeux (**League Of Legend** et un autre minimum)
+- [ ]  Connexion / Inscription
+    - [ ]  avec `username`/`password`
+    - [ ]  `coins` (100 pour commencer)
 - [ ]  Voir toutes les ligues du jeu sélectionné
-- [ ]  Mettre des ligues en favoris pour voir les prochains matchs rapidement
 - [ ]  Voir les matchs **à venir / en cours / passés**
     - [ ]  Voir le nombre de paris d'un match
     - [ ]  Parier sur une équipe pour un match
@@ -26,16 +22,24 @@ Pour les données que vous devez stocker vous pouvez utiliser [https://github.co
         - [ ]  si on perd on perd tout
 - [ ]  Voir les équipes (card avec les infos)
 - [ ]  Voir les joueurs (card avec les infos)
-- [ ]  Recherche côté API (avec le query parameter `search`)
-- [ ]  Affichage du match en cours (League of Legends)
+- [ ]  Affichage du match en cours
 
 ## Bonus
 
-- [ ]  design (un truc sympa et agréable)
-- [ ]  plus de 2 jeux
-- [ ]  surprenez-moi
+- [ ]  un design d'interface évolué
+- [ ]  avoir plus de 1 jeux
+- [ ]  recherche côté API (avec le query parameter `search`)
+- [ ]  tout ajout intéressant pourra faire preuve de bonus
+- [ ]  mettre des ligues en favoris pour voir les prochains matchs rapidement
 
 *Pour les MOBA (au minimum 1)*
 
 - [ ]  Voir les champions
     - [ ]  Voir ses sorts
+    
+
+## Notation
+
+- Fonctionnalités de base / 10 points
+- Qualité du code / 5 points
+- Fonctionnalités avancées(bonus) / 5 points
